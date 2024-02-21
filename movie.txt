@@ -1,0 +1,83 @@
+97646,The Shawshank Redemption,Frank Darabont,4.9,6971,10,1994,Drama
+41125,The Godfather,Francis Coppola,4.8,3337,12,1972,Crime
+68257,The Dark Knight,Christopher Nolan,4.9,4182,15,2008,Action
+82012,Pulp Fiction,Quentin Tarantino,4.5,1017,11,1994,Crime
+13947,Forrest Gump,Robert Zemeckis,4.5,3742,8,1994,Romance
+68234,The Matrix,Lana Wachowski,4.7,1525,13,1999,Science Fiction
+32392,The Social Network,David Fincher,4.5,580,11,2010,Drama
+89420,The Silence of the Lambs,Jonathan Demme,4.7,826,10,1991,Horror
+16211,The Departed,Martin Scorsese ,4.6,963,14,2006,Crime
+99557,The Godfather: Part II,Francis Coppola,4.8,508,18,1974,Drama
+62952,Saving Private Ryan,Steven Spielberg,4.8,1131,12,1998,Action
+37843,Goodfellas,Martin Scorsese ,4.8,705,13,1990,Crime
+29275,Schindler's List,Steven Spielberg,4.9,1784,15,1993,History
+21220,The Green Mile,Frank Darabont,4.9,2088,15,1999,Drama
+50021,The Prestige,Christopher Nolan,4.8,1493,14,2006,Science Fiction
+62261,The Truman Show,Peter Weir,4.8,1115,11,1998,Comedy
+17024,The Lion King,Roger Allers,4.8,652,10,1994,Animation
+70431,Jurassic Park,Steven Spielberg,4.8,889,13,1993,Adventure
+94088,The Avengers,Joss Whedon,4.7,1444,12,2012,Science Fiction
+54216,The Terminator,James Cameron,4.7,485,9,1984,Action
+42889,Inception,Christopher Nolan,4.8,4046,16,2010,Action
+37590,Titanic,James Cameron,4.8,4494,16,1997,Romance
+47722,Gladiator,Ridley Scott,4.8,1099,10,2000,Action
+19170,Catch Me If You Can,Steven Spielberg,4.8,808,12,2002,Comedy
+88316,Mad Max: Fury Road,George Miller,4.6,1091,14,2015,Adventure
+65588,La La Land,Damein Chazelle,4.5,1563,9,2016,Romance
+54590,Birdman,Alejandro G.,4.2,316,15,2014,Drama
+25600,Interstellar,Christopher Nolan,4.9,8212,18,2014,Science Fiction
+64577,Back to The Future,Robert Zemeckis,4.8,929,14,1985,Adventure
+95902,The Shining,Stanley Kubrick,4.3,926,18,1980,Horror
+42719,The Usual,Bryan Singer,4.7,451,10,1995,Crime
+32797,Terminator 2: Judgment Day,James Cameron,4.9,651,20,1991,Action
+61443,Die Hard,John McTeirnan,4.7,394,11,1998,Action
+80953,The Irishman,Martin Scorsese,4.1,2613,15,2019,Crime
+86155,Parasite,Bong Joon-ho,4.5,6850,12,2019,Thriller
+21874,Joker,Todd Philips,4.5,10113,10,2019,Drama
+63529,John Wick: Chapter 3,Chad Stahelski,4.5,1401,20,2019,Action
+38728,Ad Astra,James Gray,2.6,2789,16,2019,Science Fiction
+19293,Downtown Abby,Michael Engler,4.8,968,14,2019,Drama
+71166,Rambo: Last Blood,Adrian Gunberg,4.2,1292,12,2019,Action
+79856,The Invisible Man,Leigh Whannell,3.9,2325,10,2020,Horror
+33993,Onward,Dan Scanlon,4.5,1877,12,2020,Animation
+91214,The Call of the Wild,Chris Sanders,4.4,1695,9,2020,Adventure
+75191,The King's Man,Matthew Vaughn,3.5,2222,12,2020,Action
+33145,Mangrove,Steve McQueen,4.8,147,10,2020,Drama
+58608,Black Panther,Ryan Coogler,4.5,2261,12,2018,Action
+37145,A Quiet Place,John Krasinski,4.3,1481,8,2018,Horror
+20040,Ready Player One,Steven Spielberg,4.5,1297,9,2018,Science Fiction
+79806,Maze Runner: The Death Cure,Wes Ball,4.6,559,8,2018,Science Fiction
+57489,Ocean's 8,Gray Ross,4.1,807,10,2018,Crime
+42550,Hereditary,Ari Aster,3.4,1980,8,2018,Horror
+69677,The First Purge,Gerard McMurray,3.2,193,11,2018,Horror
+51602,Ant-Man and the Wasp,Peyron Reed,4.2,374,12,2018,Action
+70180,Maze Runner: The Scorch Trials,James Dashner,4.5,385,13,2015,Science Fiction
+50413,Maze Runner,James Dashner,4.7,1285,14,2014,Science Fiction
+33936,The Last Stand,John Smith,4.1,115,10,2017,Action
+50371,The Secret Life of Pets 2,Chris Renaud,4.1,115,12,2017,Animation
+38425,Dunkirk,Christopher Nolan,4.2,1420,15,2017,Action
+41768,Wonder Women,Patty Jenkins,4.0,1329,13,2017,Action
+75814,Baby Driver,Edgar Wright,4.4,842,11,2017,Thriller
+57591,The Revenant,Alejandro G.,4.6,1137,10,2016,Adventure
+33033,Deadpool,Tim Miller,4.6,940,8,2016,Adventure
+55365,Zootopia,Bryon Howard,4.8,1209,12,2016,Animation
+25392,Arrival,Denis Villeneuve,4.5,1602,9,2016,Science Fiction
+12557,Doctor Strange,Scott Derrickson,4.3,1632,10,2016,Action
+77887,Moana,Ron Clements,4.7,971,9,2016,Animation
+36948,Sing,Garth Jennings,4.5,468,8,2016,Musical
+94845,Passengers,Morten Tyldum,4.6,1325,11,2016,Science Fiction
+76321,Suicide Squad,David Ayer,3.6,7975,10,2016,Action
+85422,Jason Bourne,Paul Greengrass,4.1,203,12,2016,Action
+25542,Inside Out,Pete Doctor,4.7,991,12,2015,Animation
+10918,The Martin,Ridley Scott,4.8,1275,15,2015,Science Fiction
+87577,Jurassic World,Collin Trevorrow,4.3,940,14,2015,Science Fiction
+11417,The Big Short,Adam Mckay,4.8,506,15,2015,Drama
+57921,Spy,Paul Feig,4.5,262,12,2015,Comedy
+41780,The Dark Knight Rises,Christopher Nolan,4.7,1451,10,2013,Action
+69052,American Hustle,David Russell,4.1,212,13,2013,Crime
+74808,Gravity,Alfonso Cuaron,4.0,841,12,2013,Science Fiction
+79083,Frozen,Chris Buck,4.4,757,17,2013,Animation
+53913,Midsommar,Ari Aster,2.9,3295,18,2019,Horror
+10081,Knives Out,Rian Johnson,4.6,4538,19,2019,Mystery
+12000,name1,name1 name2,3.0,8,10,0,romance
+10000,Spider Man,Stan Lee,5.0,10,12,2002,Adventure
